@@ -8,6 +8,13 @@
 - Windows 10
 - Python 3.9.5
 
+## Documentação
+
+- O programa é um conversor de tráfego monetizado, onde é de fácil entendimento e acesso,
+  basicamente pede algumas informações como titulo do anúncio, nome do cliente, datas de
+  inico e fim, valor de investimento diário, onde ele gera uma quantidade de interações 
+  no anúncio, podendo filtrar por periodo de dias, no qual ele retornará com os resultados.
+
 ## Instruções
 
 - Clique no botão verde para fazer o download
