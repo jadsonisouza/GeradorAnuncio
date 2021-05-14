@@ -46,8 +46,23 @@
 #### Preencha com as informações abaixo:
 - Anúncio: (Nome do Anuncio) 
 - Cliente: (Nome do Cliente), (Na consulta, precisa consultar exatamente como cadastrou)
-- Data Inicio: (Deve colocar  a data exatamente como no exemplo **/**/****)
-- Data Fim: (Deve colocar  a data exatamente como no exemplo **/**/****)	
-- Investimento: (É o valor diário que você vai investir, coloque exatamente como no exemplo: 100.00, com ponto)		
+- Data Inicio: (Deve colocar  a data exatamente como no exemplo: 14/05/2021)
+- Data Fim: (Deve colocar  a data exatamente como no exemplo: 14/06/2021)	
+- Investimento: (É o valor diário que você vai investir, coloque exatamente como no exemplo: 100.00, com ponto)
+
+- Quando concluir o programa vai perguntar se você quer cadastrar novo anuncio, responda com S/N	
 	
-	![step6](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/04.png)		
+	![step6](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/04.png)	
+
+- O programa vai retornar para o menu, para consultar um anúncio cadastrado, digite 2	
+	
+	![step7](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/03.png)		
+
+- Note que o programa, vai mostrar todos os clientes cadastrados, coloque o nome desejado	
+	
+	![step8](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/05.png)		
+	
+- O programa retornará com todas as informações do Cliente e perguntará se quer filtrar por algum periodo de dias
+  responda com S/N	
+	
+	![step8](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/06.png)		
