@@ -38,11 +38,15 @@ while True:
             # Apagando a lista temporaria, após enviar para lista principal.
             temp.clear()
 
-            # Opção para criar novo anuncio, após inserir um.
-            resp = str(input('\n  Quer criar novo? [S/N] \n  :: '))
-
+            while True:
+                # Opção para criar novo anuncio, após inserir um.
+                resp = str(input('\n  Quer criar novo? [S/N] \n  :: ')).upper()[0]
+            
+                if resp in 'SN':
+                    break
+                print('  Digite apenas S/N')
             # Opção para interromper a inclusão de novo anuncio.
-            if resp in 'Nn':
+            if resp in 'N':
                 break
 
     # Opção para consultar anúncio já cadastrado
