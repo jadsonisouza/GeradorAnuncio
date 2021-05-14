@@ -43,7 +43,7 @@
 	
 	![step5](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/03.png)	
 	
-- Preencha com as informações abaixo:
+#### Preencha com as informações abaixo:
 - Anúncio: (Nome do Anuncio) 
 - Cliente: (Nome do Cliente), (Na consulta, precisa consultar exatamente como cadastrou)
 - Data Inicio: (Deve colocar  a data exatamente como no exemplo **/**/****)
