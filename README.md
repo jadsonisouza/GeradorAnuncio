@@ -15,10 +15,3 @@
 ## Instruções
 1. Clique no botão verde para fazer o download
 
-    
-
-2. Clique em Download ZIP
-
-    
- 
- 
