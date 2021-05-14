@@ -43,6 +43,11 @@
 	
 	![step5](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/03.png)	
 	
-- Vai aparecer o menu do programa, digite 1 para cadastrar novo anúncio e tecle enter:
+- Preencha com as informações abaixo:
+- Anúncio: (Nome do Anuncio) 
+- Cliente: (Nome do Cliente), (Na consulta, precisa consultar exatamente como cadastrou)
+- Data Inicio: (Deve colocar  a data exatamente como no exemplo **/**/****)
+- Data Fim: (Deve colocar  a data exatamente como no exemplo **/**/****)	
+- Investimento: (É o valor diário que você vai investir, coloque exatamente como no exemplo 100.00)		
 	
 	![step6](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/04.png)		
