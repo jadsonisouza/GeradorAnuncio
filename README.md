@@ -8,15 +8,29 @@
 - Windows 10
 - Python 3.9.5
 
-# Modo de usar
+## Instruções
+
+- Clique no botão verde para fazer o download
+	
+	![step1](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/down01.png)
+	
+- Clique em Download ZIP
+	
+	![step2](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/down02.png)	
+
+## Modo de usar
 
 - Baixe e instale o Python 3.9.5 no seu computador (https://www.python.org/downloads/)
 - Abra o CMD
 - Navegue até a pasta do projeto
-- Rode o seguinte comando "python mhi.py"
+- Rode o seguinte comando "python calculadora.py"
 - O programa vai pedir 3 informações
-    - O par no qual vai operar (ex: EURUSD)
-    - Seu Stop Gain (O Stop Loss é o HIT)
-    - Quantidade de ciclos do MHI para atingir a meta
+    - Novo Anúncio
+    - Pesquisar Anúncio
+    - Sair
 
-# Como funciona
+### Como funciona
+
+- Abra o CMD, digite a opção cd + "destino da pasta do projeto", como no exemplo:
+	
+	![step3](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/01.png)
