@@ -34,3 +34,15 @@
 - Abra o CMD, digite a opção cd + "destino da pasta do projeto", como no exemplo:
 	
 	![step3](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/01.png)
+	
+- Após navegar até a pasta do projeto, digite "python calculadora.py", tecle enter:
+	
+	![step4](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/02.png)	
+	
+- Vai aparecer o menu do programa, digite 1 para cadastrar novo anúncio e tecle enter:
+	
+	![step5](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/03.png)	
+	
+- Vai aparecer o menu do programa, digite 1 para cadastrar novo anúncio e tecle enter:
+	
+	![step6](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/04.png)		
