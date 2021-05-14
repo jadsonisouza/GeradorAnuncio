@@ -8,7 +8,8 @@
  Projeto desenvolvido para concorrer a uma vaga na Academia Capgemini!
  
 ## Programas necessários
- Sistema Operacional Windows 10 
+ Sistema Operacional Windows 10
+ 
  Python 3.9.5
  
 ## Instruções
