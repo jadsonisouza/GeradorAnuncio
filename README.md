@@ -48,6 +48,6 @@
 - Cliente: (Nome do Cliente), (Na consulta, precisa consultar exatamente como cadastrou)
 - Data Inicio: (Deve colocar  a data exatamente como no exemplo **/**/****)
 - Data Fim: (Deve colocar  a data exatamente como no exemplo **/**/****)	
-- Investimento: (É o valor diário que você vai investir, coloque exatamente como no exemplo 100.00)		
+- Investimento: (É o valor diário que você vai investir, coloque exatamente como no exemplo: 100.00, com ponto)		
 	
 	![step6](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/04.png)		
