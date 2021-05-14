@@ -15,10 +15,10 @@
 ## Instruções
 1. Clique no botão verde para fazer o download
 
-    ![step1](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/imagens/1.png)
+    ![step1](link)
 
 2. Clique em Download ZIP
 
-    ![step2](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/imagens/1.png)
+    ![step2](link)
  
  
