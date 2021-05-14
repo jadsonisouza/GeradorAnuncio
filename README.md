@@ -65,4 +65,25 @@
 - O programa retornará com todas as informações do Cliente e perguntará se quer filtrar por algum periodo de dias
   responda com S/N	
 	
-	![step8](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/06.png)		
+	![step9](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/06.png)	
+
+- Digitando a quantidade de dias, dentro do limite contratado	
+	
+	![step10](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/07.png)
+
+- Caso filtre um periodo do cliente e coloque a quantidade de dias a mais do contratado, o programa
+  vai apresentar uma tela de erro, informando que o valor é diferente de dias contratado	
+	
+	![step11](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/07.1.png)	
+	
+- O programa retornará as informações do periodo desejado e caso queira consultar outro anúncio
+  responda com S/N
+	
+	![step12](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/08.png)
+
+- O programa vai retornar para o menu, para finalizar o programa, digite 3
+	
+	![step13](https://github.com/jadsonisouza/GeradorAnuncio/blob/main/fotos/09.png)	
+	
+## Tem sugestões/temas/tópicos/cursos/criticas para me ajudar a evoluir?
+Estou sempre aberto para sugestões e criticas, mande elas para jadson.iure.souza@gmail.com	
