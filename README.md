@@ -5,7 +5,13 @@
  pois tem ampliado a minha mente e feito eu enxergar novos horizontes.
 
 # Gerador de Anuncio
- Projeto desenvolvido para concorrer a uma vaga na Academia Capgemini
+ Projeto desenvolvido para concorrer a uma vaga na Academia Capgemini!
  
- ## Instruções
+## Programas necessários
+ Sistema Operacional Windows 10 
+ Python 3.9.5
+ 
+## Instruções
+
+ 
  
